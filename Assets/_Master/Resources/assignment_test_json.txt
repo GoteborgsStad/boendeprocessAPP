@@ -1,0 +1,224 @@
+[
+    {
+        "id": 17,
+        "name": "in",
+        "description": "Quasi sed nostrum velit consequatur commodi reiciendis asperiores. Magni animi cumque in optio aut alias corrupti. Quia et est totam autem non iste. Aut sunt et rerum voluptas vel incidunt.",
+        "start_at": "2017-01-01 00:00:00",
+        "end_at": "2017-01-01 00:00:00",
+        "accepted_at": "2017-01-01 00:00:00",
+        "finished_at": "2017-01-01 00:00:00",
+        "image_url": "https://lorempixel.com/128/128/?87104",
+        "color": "#b4c5ac",
+        "created_at": "2017-11-20 09:16:29",
+        "updated_at": "2017-11-20 09:16:29",
+        "assignment_category": {
+            "id": 5,
+            "name": "Familj och sociala relationer",
+            "description": "Uppdrag som syftar till att ungdomen bibehåller relationen med sin familj och skapar/bibehåller andra kontakter.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        },
+        "assignment_status": {
+            "id": 1,
+            "name": "Nytt",
+            "description": "Ett nytt uppdrag som ungdommen ännu inte tittat på.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        },
+        "assignment_form": {
+            "id": 1,
+            "name": "Foto",
+            "description": "Ett foto behöver bifogas för att uppdraget ska gå att lämna in.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        }
+    },
+    {
+        "id": 20,
+        "name": "laborum",
+        "description": "Vel velit et itaque officia. Eius rem rerum nesciunt alias totam velit ut. Ut veniam deserunt quibusdam ipsum suscipit sunt.",
+        "start_at": "2017-01-01 00:00:00",
+        "end_at": "2017-11-21 00:00:00",
+        "accepted_at": "2017-01-01 00:00:00",
+        "finished_at": "2017-01-01 00:00:00",
+        "image_url": "https://lorempixel.com/128/128/?27797",
+        "color": "#ea1ba9",
+        "created_at": "2017-11-20 09:16:29",
+        "updated_at": "2017-11-20 09:16:29",
+        "assignment_category": {
+            "id": 1,
+            "name": "Klara sig själv",
+            "description": "Uppdrag som syftar till att ungdomen blir självständig och klarar av att sköta ett hushåll.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        },
+        "assignment_status": {
+            "id": 2,
+            "name": "I fas",
+            "description": "Det är gott om tid kvar till deadline. ",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        },
+        "assignment_form": {
+            "id": 3,
+            "name": "Bocka av",
+            "description": "Det räcker att bara bocka av att ett uppdrag är avklarat.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        }
+    },
+    {
+        "id": 24,
+        "name": "praesentium",
+        "description": "Rem facilis cumque blanditiis et vitae. Voluptas ad eum quis sed minus. Rerum non eligendi possimus et nesciunt omnis fugit. Nesciunt autem delectus harum rem rerum.",
+        "start_at": "2017-01-01 00:00:00",
+        "end_at": "2017-11-22 00:00:00",
+        "accepted_at": "2017-01-01 00:00:00",
+        "finished_at": "2017-01-01 00:00:00",
+        "image_url": "https://lorempixel.com/128/128/?48958",
+        "color": "#7b2745",
+        "created_at": "2017-11-20 09:16:29",
+        "updated_at": "2017-11-20 09:16:29",
+        "assignment_category": {
+            "id": 4,
+            "name": "Sysselsättning",
+            "description": "Uppdrag som syftar till att ungdomen får meningsfulla saker att göra som arbete, utbildning och en aktiv fritid.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        },
+        "assignment_status": {
+            "id": 5,
+            "name": "Inväntar godkännande",
+            "description": "Uppdrag som ungdommen har klarat av men som kontktpersonen ännu inte godkänt.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        },
+        "assignment_form": {
+            "id": 2,
+            "name": "Text",
+            "description": "En textbeskrivning behöver bifogas för att uppdraget ska gå att lämna in.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        }
+    },
+    {
+        "id": 28,
+        "name": "aut",
+        "description": "Praesentium omnis vitae incidunt. Aliquam alias eligendi quis voluptatem sint et dicta. Est officiis aspernatur voluptas itaque.",
+        "start_at": "2017-01-01 00:00:00",
+        "end_at": "2017-11-23 00:00:00",
+        "accepted_at": "2017-01-01 00:00:00",
+        "finished_at": "2017-01-01 00:00:00",
+        "image_url": "https://lorempixel.com/128/128/?83210",
+        "color": "#5111ea",
+        "created_at": "2017-11-20 09:16:29",
+        "updated_at": "2017-11-20 09:16:29",
+        "assignment_category": {
+            "id": 2,
+            "name": "Delaktighet",
+            "description": "Uppdrag som syftar till att ungdomen ska delta i de aktiviter som sambuh erbjuder som t.ex. kontaktträffar.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        },
+        "assignment_status": {
+            "id": 5,
+            "name": "Inväntar godkännande",
+            "description": "Uppdrag som ungdommen har klarat av men som kontktpersonen ännu inte godkänt.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        },
+        "assignment_form": {
+            "id": 3,
+            "name": "Bocka av",
+            "description": "Det räcker att bara bocka av att ett uppdrag är avklarat.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        }
+    },
+    {
+        "id": 35,
+        "name": "quia",
+        "description": "Ad et non eaque earum quidem. Similique non quam nihil repudiandae et officiis ipsa. Fugiat tempora voluptatum dolorem eum et enim ad.",
+        "start_at": "2017-01-01 00:00:00",
+        "end_at": "2017-11-24 00:00:00",
+        "accepted_at": "2017-01-01 00:00:00",
+        "finished_at": "2017-01-01 00:00:00",
+        "image_url": "https://lorempixel.com/128/128/?15028",
+        "color": "#9e9bc7",
+        "created_at": "2017-11-20 09:16:29",
+        "updated_at": "2017-11-20 09:16:29",
+        "assignment_category": {
+            "id": 4,
+            "name": "Sysselsättning",
+            "description": "Uppdrag som syftar till att ungdomen får meningsfulla saker att göra som arbete, utbildning och en aktiv fritid.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        },
+        "assignment_status": {
+            "id": 4,
+            "name": "Passerad deadline",
+            "description": "Deadline för uppdraget har varit och det är inte avklarat.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        },
+        "assignment_form": {
+            "id": 2,
+            "name": "Text",
+            "description": "En textbeskrivning behöver bifogas för att uppdraget ska gå att lämna in.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        }
+    },
+    {
+        "id": 44,
+        "name": "dolores",
+        "description": "Itaque vel nulla fugit sed unde dolorum cumque. Voluptatibus nemo quam voluptas est. A ipsam eius animi non atque ex.",
+        "start_at": "2017-01-01 00:00:00",
+        "end_at": "2017-12-25 00:00:00",
+        "accepted_at": "2017-01-01 00:00:00",
+        "finished_at": "2017-01-01 00:00:00",
+        "image_url": "https://lorempixel.com/128/128/?29369",
+        "color": "#480357",
+        "created_at": "2017-11-20 09:16:29",
+        "updated_at": "2017-11-20 09:16:29",
+        "assignment_category": {
+            "id": 2,
+            "name": "Delaktighet",
+            "description": "Uppdrag som syftar till att ungdomen ska delta i de aktiviter som sambuh erbjuder som t.ex. kontaktträffar.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        },
+        "assignment_status": {
+            "id": 4,
+            "name": "Passerad deadline",
+            "description": "Deadline för uppdraget har varit och det är inte avklarat.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        },
+        "assignment_form": {
+            "id": 2,
+            "name": "Text",
+            "description": "En textbeskrivning behöver bifogas för att uppdraget ska gå att lämna in.",
+            "color": "#ffffff",
+            "created_at": "2017-11-20 09:16:29",
+            "updated_at": "2017-11-20 09:16:29"
+        }
+    }
+]

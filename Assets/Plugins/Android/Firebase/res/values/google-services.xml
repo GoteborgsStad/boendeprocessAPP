@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://sambuh-7f13f.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">298020704126</string>
+  <string name="google_storage_bucket" translatable="false">sambuh-7f13f.appspot.com</string>
+  <string name="project_id" translatable="false">sambuh-7f13f</string>
+  <string name="google_api_key" translatable="false">AIzaSyAhCqFXSWPeCqPI7K-WgpSGoGArIdXzzJI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAhCqFXSWPeCqPI7K-WgpSGoGArIdXzzJI</string>
+  <string name="google_app_id" translatable="false">1:298020704126:android:165d3fdc3377d4ac</string>
+  <string name="default_web_client_id" translatable="false">298020704126-hi1583j3g4dd6juookth9nvk7a87r4nf.apps.googleusercontent.com</string>
+</resources>

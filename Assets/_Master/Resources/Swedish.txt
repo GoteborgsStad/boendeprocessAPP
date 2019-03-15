@@ -1,0 +1,93 @@
+﻿NoPlan_Title;	Välkommen!
+NoPlan_Content; Din kontaktperson har ännu inte satt upp din personliga plan. När detta är gjort kommer du få tillgång till all funktionalitet i appen.
+
+Header_Login;				SAMBUH - LOGGA IN
+Header_MonthlyCheck;		MÅNADSKOLLEN
+Header_Assignment;			UPPDRAG
+Header_AssignmentInspect;	UPPDRAG
+Header_Chat;				CHATT
+Header_ChatBack;			CHATT
+Header_Info;				INFO
+Header_Settings;			PROFIL
+
+Login_Button; Logga in
+
+Navigation_Plant;		VÄXTEN
+Navigation_Assignment;	UPPDRAG
+Navigation_Chat;		CHATT
+Navigation_Check;		KOLLEN
+Navigation_Info;		INFO
+Navigation_Options;		PROFIL
+
+Progress_Living;		BOENDE
+Progress_Participation; DELAKTIGHET
+Progress_Assignment;	UPPDRAG
+
+Monthly_Nav_Current;	LÄGET JUST NU
+Monthly_Nav_Previous;	TIDIGARE MÅNADER
+Monthly_Latest;			Senaste Månadskollen
+Monthly_RemainingGoals;	Kvarvarande mål
+Monthly_Completed;		Avklarat
+Monthly_Status;			mål avklarade sedan startdatum
+Monthly_Check;			Månadskoll -
+
+Assignment_Nav_Ongoing;		PÅGÅENDE
+Assignment_Nav_Finished;	AVSLUTADE
+
+InspectAssignment_Nav_Description;	UPPDRAGSBESKRIVNING
+InspectAssignment_Nav_Submission;	INLÄMNING
+InspectAssignment_Submit_Top;		<b>Inlämning av uppdrag</b>\nFyll i informationen som behövs för att skicka in ditt uppdrag som avklarat till din kontaktperson.
+InspectAssignment_Submit_Check;		Bocka av att du är klar
+InspectAssignment_Submit_Photo;		Bifoga foto
+InspectAssignment_Submit_Text;		<b>Skriv kort om uppdraget</b>
+InspectAssignment_Submit_TextHere;	Skriv här...
+InspectAssignment_Submit_Button;	Lämna in uppdrag!
+InspectAssignment_ImageButton;		Tillhörande bild
+
+Chat_Nav_Contacts;		KONTAKTPERSONER
+Chat_Nav_Feedback;		FEEDBACK
+Chat_Other_Title;		Övriga
+Chat_Other_Desc;		Nedan ser du övriga kontaktpersoner som jobbar på Sambuh. Tryck på en person för att få upp kontaktmöjligheter.
+Chat_Feedback_Title;	Lämna feedback anonymt!
+Chat_Feedback_Body;		Om du har åsikter eller förslag för att göra Sambuh och den Interaktiva Genomförandeplanen bättre kan du här skicka in meddelanden helt anonymt!
+Chat_Feedback_Button;	Skicka feedback!
+Chat_Placeholder;		Skriv meddelande...
+
+Info_Nav_Information;		INFORMATION
+Info_Nav_After;				EFTER SAMBUH
+Info_Nav_FAQ;				FAQ
+Info_Information_Title;		Välkommen till Sambuh!
+Info_Information_Content;	Sambuh är ett HVB (Hem för vård eller boende) och stödboende för dig 16–20 år. Vi finns för dig som inte kan bo kvar hemma och behöver stöd att bli självständig och klara ett eget boende. Vi tar emot dig som är folkbokförd i någon av stadsdelarna på Hisingen. På Sambuh finns personal i tjänst dygnet runt hela året. Du kan alltid nå Sambuh via telefon. \n\n<b>HVB - Regler och rutiner</b>\n<b>*</b> För att träna på dags- och veckostruktur har vi rutiner. På vardagar går du upp senast klockan 8. Din frukost planerar du själv. \n<b>*</b> Middag äter vi tillsammans i huset klockan 17. En dag i veckan ansvarar du för att planera och laga middagen. Övriga dagar gör personalen det. Dagens andra måltider sker efter dina önskemål. \n<b>*</b> På vardagar ska du vara hemma vid klockan 22, för att planera och förbereda nästa dag. \n<b>*</b> Kompisar som är på besök får gå hem senast klockan 21 på vardagar.\n\n<b>Stödboende - Regler och rutiner</b>\n<b>*</b> De första två veckorna i stödboende ska du bo själv i din lägenhet varje natt. Detta för att du redan från början ska känna på hur det är att bo helt på egen hand. Om allt fungerat bra dessa veckor så är rutinen att det går bra att sova borta ibland eller att någon sover över hos dig. Vi vill däremot att det i så fall sker på helgen eller under lov. Planera detta i så fall tillsammans med din kontaktperson.  Om du har besök i din lägenhet så vill vi att du begränsar det till två kompisar åt gången och att de lämnar vid kl 22 under vardagar. \n<b>*</b> Om du inte kan gå till skolan på grund av sjukdom eller annat, är det ditt ansvar att meddela skolan och även Sambuh. Om du planerar resa bort så meddelar du även det till Sambuh. \n<b>*</b> Husdjur är ej tillåtet att ha i Sambuhs lägenheter. \n<b>*</b> Rökning är inte tillåten i Sambuhs lägenheter.\n<b>*</b> Det är inte tillåtet att ha alkohol i ditt boende. \n<b>*</b> Skadegörelse på lägenhet och inventarier tillhörande Sambuh kommer du att få ersätta. Vid förlust av nyckel till din lägenhet eller tvättkort blir du ersättningsskyldig för detta. \n<b>*</b> En gång i månaden sker en kontroll av lägenheten. Två personal åker då runt och kontrollerar att det ser bra ut i lägenheterna. Du får veta innan vilken dag kontrollen äger rum. \n<b>*</b> Privata ägodelar tar du själv ansvar för. Din kontaktperson hjälper dig med att teckna en hemförsäkring när du flyttar till Sambuh. \n<b>*</b> Om vi känner oro för ditt mående eller boendet i övrigt kan vi gå in i lägenheten med vår nyckel. \n<b>*</b> När du bor på Sambuh har du ansvar för att dina kompisar på besök följer ovanstående regler och rutiner. Ingen annan får vara i lägenheten om du själv inte är där. \n<b>*</b> Vid allvarliga eller upprepade regelbrott kan insatsen avslutas omgående.
+Info_After_Title;			Efter Sambuh
+Info_After_Content;			Bor du på Sambuh stödboende så är vårt mål att du efter det är redo att bo helt på egen hand. Stödboendereferens innebär att vi efter en period skriver ett referensbrev på boendet där vi beskriver hur du bott och att vi bedömer att du behärskar de viktigaste delarna i ett självständigt boende. De delarna är att betala hyra i tid under en given period, sköta sitt boende utan anmärkningar, samt att kunna klara av sin sysselsättning i kombination med självständigt boende. När referensen är klar avslutas stödboendet på Sambuh. I samband med att referensperioden börjar görs en planering tillsammans med din socialsekreterare så du vet hur avslutningsperioden av Sambuh ser ut. 
+
+Settings_Nav_Profile;		PROFIL
+Settings_Nav_Notifications;	NOTISER
+Settings_Mail_Title;		Email
+Settings_Mail_Placeholder;	Din email...
+Settings_Mail_Invalid;		Ogiltig emailaddress
+Settings_Pic_Title;			Profilbild
+Settings_Pic_Body;			Endast du själv och personalen på Sambuh kan se din profilbild.
+Settings_Pic_Select;		Välj bild
+Settings_Pic_Remove;		Ta bort bild
+Settings_SaveButton;		Spara
+Settings_Notif_Title;		Pushnotiser
+Settings_Notif_NewMission;	Nytt uppdrag
+Settings_Notif_SoonMission;	Slutdatum för uppdrag är nära
+Settings_Notif_DoneMission;	Godkännande av avklarat uppdrag
+Settings_Notif_NewChat;		Nytt chattmeddelande
+Settings_Notif_NewCheck;	Ny månadskoll
+Settings_SignOut_Button;	Logga ut
+Settings_SignOut_Confirm;	Bekräfta utloggning
+
+Popup_Timeout;			Servern kunde inte nås inom rimlig tid
+Popup_Error;			Felkod:
+Popup_RetryButton;		Försök igen
+
+PoorConnection_Info;	Dålig\nanslutning
+
+Time_Late;		för <color=<COLOR>><DAYS> dagar sedan</color>
+Time_Yesterday;	<color=<COLOR>>igår</color>
+Time_Today;		<color=<COLOR>>idag</color>
+Time_Tomorrow;	<color=<COLOR>>imorgon</color>
+Time_Future;	om <color=<COLOR>><DAYS> dagar</color>
