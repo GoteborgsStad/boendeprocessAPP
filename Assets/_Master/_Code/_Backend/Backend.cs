@@ -120,17 +120,16 @@ namespace ius
 			mToken = null;
 			PlayerPrefs.DeleteAll();
 			PlayerPrefs.Save();
-
-			// Redirect to sign in screen
+			
 			if (OnLogOut != null)
 				OnLogOut();
 			else
 				Debug.LogWarning("OnNeedLogIn not handled");
-
-			IUSAuthentication.LogOut(OnLogOutDone);
-
+			
 			if (Application.isEditor)
 				OnLogOutDone();
+			else
+				IUSAuthentication.LogOut(OnLogOutDone);
 		}
 
 		private static void OnLogOutDone()

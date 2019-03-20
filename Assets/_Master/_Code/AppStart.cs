@@ -20,16 +20,22 @@ namespace ius
 
 		void Start()
 		{
-			Backend.OnLogOut += OnNeedLogIn;
+			Backend.OnLogOut += OnLogOut;
 
 			if (!Backend.IsLoggedIn)
-				OnNeedLogIn();
+				EnterLogin();
 			else
 				EnterApp();
 		}
 
-		/// <summary> Called when user is forced logged out. </summary>
-		private void OnNeedLogIn()
+		/// <summary> Called when user is force logged out. </summary>
+		private void OnLogOut()
+		{
+			UINavigation.SetState(false);
+			UIManager.Open(UILocation.Loading);
+		}
+
+		private void EnterLogin()
 		{
 			UINavigation.SetState(false);
 			UIManager.Open(UILocation.Login);

@@ -15,13 +15,18 @@ namespace ius
 
 		void OnEnable()
 		{
-			mIsDone = false;
-
 			if (Backend.IsLoggedIn)
 			{
+				// Starting app, loading data
+				mIsDone = false;
 				DataManager.OnInitialFetchFail -= OnFetchFail;
 				DataManager.OnInitialFetchFail += OnFetchFail;
 				DataManager.FetchInitialData();
+			}
+			else
+			{
+				// Logging out
+				mIsDone = true;
 			}
 		}
 

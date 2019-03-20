@@ -333,18 +333,10 @@ namespace ius
 				}
 			}
 
-			// If the token is no longer valid force a sign out
-			if (StatusCode == 401 || StatusCode == 403 || StatusCode == 400)
+			// If the token is no longer valid force a sign out 
+			if (!IsSuccess && mWWW.error.Contains("Unauthorized"))
 			{
-				switch (Error)
-				{
-					case "token_invalid":
-					case "token_expired":
-					case "token_not_provided":
-					case "user_not_admin":
-						Backend.LogOut();
-						break;
-				}
+				Backend.LogOut();
 			}
 			else if (mOnDone != null)
 			{
